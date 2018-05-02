@@ -1,0 +1,16 @@
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\DI.dll
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\DI.pdb
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Logger.dll
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Ninject.dll
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Parser.dll
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Serializer.dll
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\NLog.dll
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Logger.pdb
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Parser.pdb
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Serializer.pdb
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\Ninject.xml
+E:\training\NET.S.2018.Plotnikau.20\DI\bin\Debug\NLog.xml
+E:\training\NET.S.2018.Plotnikau.20\DI\obj\Debug\DI.csprojResolveAssemblyReference.cache
+E:\training\NET.S.2018.Plotnikau.20\DI\obj\Debug\DI.csproj.CoreCompileInputs.cache
+E:\training\NET.S.2018.Plotnikau.20\DI\obj\Debug\DI.dll
+E:\training\NET.S.2018.Plotnikau.20\DI\obj\Debug\DI.pdb

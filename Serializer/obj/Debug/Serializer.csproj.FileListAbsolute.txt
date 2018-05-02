@@ -1,0 +1,6 @@
+E:\training\NET.S.2018.Plotnikau.20\Serializer\bin\Debug\Serializer.dll
+E:\training\NET.S.2018.Plotnikau.20\Serializer\bin\Debug\Serializer.pdb
+E:\training\NET.S.2018.Plotnikau.20\Serializer\obj\Debug\Serializer.csprojResolveAssemblyReference.cache
+E:\training\NET.S.2018.Plotnikau.20\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+E:\training\NET.S.2018.Plotnikau.20\Serializer\obj\Debug\Serializer.dll
+E:\training\NET.S.2018.Plotnikau.20\Serializer\obj\Debug\Serializer.pdb

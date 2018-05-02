@@ -1,0 +1,8 @@
+E:\training\NET.S.2018.Plotnikau.20\Logger\bin\Debug\Logger.dll
+E:\training\NET.S.2018.Plotnikau.20\Logger\bin\Debug\Logger.pdb
+E:\training\NET.S.2018.Plotnikau.20\Logger\bin\Debug\NLog.dll
+E:\training\NET.S.2018.Plotnikau.20\Logger\bin\Debug\NLog.xml
+E:\training\NET.S.2018.Plotnikau.20\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\training\NET.S.2018.Plotnikau.20\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\training\NET.S.2018.Plotnikau.20\Logger\obj\Debug\Logger.dll
+E:\training\NET.S.2018.Plotnikau.20\Logger\obj\Debug\Logger.pdb
